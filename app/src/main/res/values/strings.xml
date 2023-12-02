@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Golfcourse</string>
+    <string name="button_addGolfcourse">Add Golfcourse</string>
+    <string name="hint_golfcourseTitle">Golfcourse Title</string>
+    <string name="hint_golfcourseDescription">Description </string>
+    <string name="menu_addGolfcourse">Add</string>
+    <string name="menu_cancelGolfcourse">Cancel</string>
+    <string name="enter_golfcourse_title"> Please enter a Golfcourse Title </string>
+    <string name="save_golfcourse"> Save Golfcourse </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_golfcourse_image">Select image</string>
+    <string name="change_golfcourse_image">Change image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="menu_deleteGolfcourse">Delete</string>
+    <string name="title_activity_golfcourse_maps">Map of all Golfcourses</string>
+    <string name="hint_golfcourseDateplayed">Date Played </string>
+    <string name="hint_golfcoursePrice">Price </string>
+    <string name="hint_golfcourseRating">Rating </string>
+    <string name="hint_golfcourseStart">Welcome To The Golf Course App </string>
+</resources>
