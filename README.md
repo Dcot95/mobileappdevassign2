@@ -9,3 +9,7 @@ Student Number: W20062924
 Brief description of piece: 
 
 Any sources referred to during the development of the assignment :
+
+Brief description of piece: 
+
+Any sources referred to during the development of the assignment :
